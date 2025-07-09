@@ -24,16 +24,16 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🧠 Learning Goals
 
-- 🧮 Deep dive into **linear algebra** and **NumPy**
+- 🧮 Deep dive into **Go** and **Java**
 - 🧠 Exploring **PyTorch** & beginner-friendly ML models
-- ⚡ Understanding **quantum superposition** and decoherence
+- ⚡ Understanding **Low-Level Programmming**
 - 🕹️ Building game UIs and learning Java graphics programming
 
 ---
 
 ### 🎯 Goals
 
-- 💼 Land a remote junior backend role (Go/TypeScript/Java preferred)
+- 💼 Land a junior backend role (Go/TypeScript/Java preferred)
 - 💰 Build high-impact open source and personal projects
 - 🌎 Move to a more tropical country and work remotely as a developer
 
