@@ -51,7 +51,7 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 ### 📬 Let’s Connect
 
 - 🌐 [GitHub](https://github.com/auraluvsu)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/nasir-treasure-2683b532a/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/nasir-treasure-2683b532a)
 - ✉️ ntreasure2015@gmail.com
 
 ---
