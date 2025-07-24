@@ -8,8 +8,8 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Go, TypeScript, Java, Python, SQL  
-- 🧰 **Tools**: Neovim, Git, Docker, Gradle  
+- 💻 **Languages**: Go, TypeScript, Zig, Python, SQL  
+- 🧰 **Tools**: Neovim, Git, Docker, PostgreSQL
 - 🔌 **Concepts**: REST APIs, WebSockets, OAuth, DB design, real-time apps
 
 ---
