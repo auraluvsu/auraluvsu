@@ -15,8 +15,7 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 ---
 
 ### 🚧 Currently Working On
-
-- `Pokemon Grey`: A nostalgic fan game built with Java & libGDX  
+ 
 - `Nyx`: A Go-powered chess engine focused on move validation logic  
 - `Richmond college`: A Frontend website for displaying college courses, built with HTML, CSS and particles.js
 
@@ -24,16 +23,14 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🧠 Learning Goals
 
-- 🧮 Deep dive into **Go** and **Java**
+- 🧮 Deep dive into **Go** and **Zig**
 - 🧠 Exploring **PyTorch** & beginner-friendly ML models
 - ⚡ Understanding **Low-Level Programmming**
-- 🕹️ Building game UIs and learning Java graphics programming
-
 ---
 
 ### 🎯 Goals
 
-- 💼 Land a junior backend role (Go/TypeScript/Java preferred)
+- 💼 Land a junior backend role (Go/TypeScript/Zig preferred)
 - 💰 Build high-impact open source and personal projects
 - 🌎 Move to a more tropical country and work remotely as a developer
 
