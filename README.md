@@ -14,6 +14,10 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ---
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auraluvsu&theme=github_dark" />
+
+---
+
 ### 🚧 Currently Working On
  
 - `Nyx`: A Go-powered chess engine focused on move validation logic  
