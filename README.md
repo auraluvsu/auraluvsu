@@ -1,8 +1,8 @@
 ## Hey there! I'm Nas 👋
 
-🎓 IT student | 🧑🏾‍💻 Indie Backend Developer | 🇬🇧 based in London (but Canada always feels like home)
+🧑🏾‍💻 Backend Developer | 🇬🇧 based in London (but Canada always feels like home)
 
-I’m an 18-year-old dev with a passion for building cool things, breaking into tech, and learning  in training. Currently mastering backend development — mainly with **Go**, **Typescript**, **Zig** and **SQL** — while cooking up projects that help me stand out as a junior developer.
+I’m an 18-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering backend development — mainly with **Go**, **Typescript**, **Zig** and **SQL** — while cooking up projects that help me stand out as a junior developer.
 
 ---
 
@@ -21,7 +21,7 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 ### 🚧 Currently Working On
  
 - `Nyx`: A Go-powered chess engine focused on move validation logic  
-- `Richmond college`: A Frontend website for displaying college courses, built with HTML, CSS and particles.js
+- `Izanami`: A Zig-powered chess engine created to rival Nyx in speed and efficiency
 
 ---
 
@@ -36,16 +36,6 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 - 💼 Land a junior backend role (Go/TypeScript/Zig preferred)
 - 💰 Build high-impact open source and personal projects
-- 🌎 Move to a more tropical country and work remotely as a developer
-
----
-
-### ⚔️ Fun Facts
-
-- First Pokémon game? **Black & White** — still iconic 🖤🤍  
-- Big fan of historic battles & strategy (WW2, Punic Wars, Cold War)  
-- Obsessed with physics — black holes, nuclear fusion, quantum tunneling  
-- I loveee basketball
 
 ---
 
