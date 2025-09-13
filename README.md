@@ -16,6 +16,7 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auraluvsu&theme=github_dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auraluvsu&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,go,python,git,linux,postgres,neovim,lua,zig)](https://skillicons.dev)
 ---
 
 ### 🚧 Currently Working On
@@ -27,16 +28,8 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🧠 Learning Goals
 
-- 🧮 Deep dive into **Go** and **Zig**
-- 🧠 Exploring **PyTorch** & beginner-friendly ML models
+- 🧮 Deep dive into **Typescript** **Go** and **Zig**
 - ⚡ Understanding **Low-Level Programmming**
----
-
-### 🎯 Goals
-
-- 💼 Land a junior backend role (Go/TypeScript/Zig preferred)
-- 💰 Build high-impact open source and personal projects
-
 ---
 
 ### 📬 Let’s Connect
