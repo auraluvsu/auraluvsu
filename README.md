@@ -8,28 +8,28 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Go, TypeScript, Zig, Python, SQL  
+- 💻 **Languages**: Go, TypeScript, Python
 - 🧰 **Tools**: Neovim, Git, Docker, PostgreSQL
-- 🔌 **Concepts**: REST APIs, WebSockets, OAuth, DB design, real-time apps
+- 🔌 **Concepts**: REST APIs, WebSockets, DB design, real-time apps
 
 ---
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auraluvsu&theme=github_dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auraluvsu&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,go,python,git,neovim,lua,zig" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,go,python,git,neovim,lua,rust" />
 
 ---
 
 ### 🚧 Currently Working On
  
 - `Nyx`: A Go-powered chess engine focused on move validation logic  
-- `Izanami`: A Zig-powered chess engine created to rival Nyx in speed and efficiency
+- `Izanami`: A Rust-powered CLI that tracks your traades and gives you statistics on your profits
 
 ---
 
 ### 🧠 Learning Goals
 
-- 🧮 Deep dive into **Typescript** **Go** and **Zig**
+- 🧮 Deep dive into **Typescript** **Go** and **Rust**
 - ⚡ Understanding **Low-Level Programmming**
 ---
 
