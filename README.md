@@ -2,7 +2,7 @@
 
 🧑🏾‍💻 Backend Developer | 🇬🇧 based in London (but Canada always feels like home)
 
-I’m an 18-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering backend development — mainly with **Go**, **Typescript**, **Zig** and **SQL** — while cooking up projects that help me stand out as a junior developer.
+I’m an 18-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering backend development — mainly with **Go**, **Typescript**, **Rust** and **SQL** — while cooking up projects that help me stand out as a junior developer.
 
 ---
 
@@ -22,8 +22,7 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🚧 Currently Working On
  
-- `Nyx`: A Go-powered chess engine focused on move validation logic  
-- `Izanami`: A Rust-powered CLI that tracks your traades and gives you statistics on your profits
+- `Nyx`: A Go-powered chess engine focused on move validation logic 
 
 ---
 
