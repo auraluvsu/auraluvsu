@@ -1,6 +1,6 @@
 ## Hey there! I'm Nas 👋
 
-🧑🏾‍💻 Backend Developer | 🇬🇧 based in London (but Canada always feels like home)
+🧑🏾‍💻 Software Engineer | 🇬🇧 based in London (but Canada always feels like home)
 
 I’m an 18-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering backend development — mainly with **Go**, **Typescript**, **Rust** and **SQL** — while cooking up projects that help me stand out as a junior developer.
 
@@ -15,7 +15,6 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 ---
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auraluvsu&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auraluvsu&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 <img src="https://skillicons.dev/icons?i=nodejs,ts,js,go,python,git,neovim,lua,rust" />
 
 ---
