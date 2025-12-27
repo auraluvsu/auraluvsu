@@ -2,13 +2,13 @@
 
 🧑🏾‍💻 Software Engineer | 🇬🇧 based in London (but Canada always feels like home)
 
-I’m an 18-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering Systems development — mainly with **Go**, **Rust** and **Python** — while cooking up projects that help me stand out as a junior developer.
+I’m an 18-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering Systems development — mainly with **Go**, **Rust** and **C++** — while cooking up projects that help me stand out as a junior developer.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Go, TypeScript, Rust
+- 💻 **Languages**: Go, Rust
 - 🧰 **Tools**: Neovim, Git, Docker, PostgreSQL
 - 🔌 **Concepts**: REST APIs, WebSockets, DB design, real-time apps
 
