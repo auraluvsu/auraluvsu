@@ -8,7 +8,7 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Go, Rust, Typescript
+- 💻 **Languages**: Go, Rust, C++
 - 🧰 **Tools**: Neovim, Git, Docker, PostgreSQL
 - 🔌 **Concepts**: REST APIs, WebSockets, Computer architecture, Low level architecture
 
