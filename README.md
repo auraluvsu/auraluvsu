@@ -8,7 +8,7 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Go, Rust, C++
+- 💻 **Languages**: Go, Python, C++
 - 🧰 **Tools**: Neovim, Git, Docker, PostgreSQL
 - 🔌 **Concepts**: REST APIs, WebSockets, Computer architecture, Low level architecture
 
@@ -21,13 +21,13 @@ I’m an 18-year-old dev with a passion for building cool things, breaking into 
 
 ### 🚧 Currently Working On
  
-- `Nyx`: A Go-powered chess engine focused on move validation logic 
+- `Scents4Pence`: An ecommerce store for a affordable luxury fragrance brand 
 
 ---
 
 ### 🧠 Learning Goals
 
-- 🧮 Deep dive into **Rust** and **C++**
+- 🧮 Deep dive into **Python** and **C++**
 - ⚡ Working on my **Low-Level Programmming**
 ---
 
