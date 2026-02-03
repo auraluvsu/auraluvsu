@@ -15,7 +15,7 @@ I’m an 19-year-old dev with a passion for building cool things, breaking into 
 ---
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auraluvsu&theme=github_dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,ts,cpp,go,python,git,neovim,lua,rust" />
+<img src="https://skillicons.dev/icons?i=python,go,cpp,rust,ts,nodejs,docker,sql,git,neovim" />
 
 ---
 
