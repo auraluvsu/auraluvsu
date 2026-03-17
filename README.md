@@ -2,7 +2,7 @@
 
 🧑🏾‍💻 Software Engineer | 🇬🇧 based in London (but Canada always feels like home)
 
-I’m an 19-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering Systems development — mainly with **Python**, **C++** and **Go** — while cooking up projects that help me stand out as a junior developer.
+I’m an 19-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering Quantitative development — mainly with **Python** and **C++** — while cooking up projects that help me stand out as a junior developer.
 
 ---
 
