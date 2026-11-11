@@ -22,7 +22,7 @@ I’m an 19-year-old dev with a passion for building cool things, breaking into 
 ### 🚧 Currently Working On
  
 - `Scents4Pence`: An ecommerce store for a affordable luxury fragrance brand
-- `H'art of Family`: A booking website for a family & couples coach
+- `Aurora`: A local, voice-driven personal AI assistant built to think alongside its user
 
 ---
 
