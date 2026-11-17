@@ -2,15 +2,15 @@
 
 🧑🏾‍💻 Software Engineer | 🇬🇧 based in London (but Canada always feels like home)
 
-I’m an 19-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently mastering Quantitative development — mainly with **Python** and **C++** — while cooking up projects that help me stand out as a junior developer.
+I’m an 19-year-old dev with a passion for building cool things, breaking into tech, and learning in training. Currently deep diving into Machine learning — mainly with **Python** and **C++** — while cooking up projects that help me stand out as a junior developer.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Python, C++, Go, Typescript
+- 💻 **Languages**: Python, Go, Typescript
 - 🧰 **Tools**: Neovim, Git, Docker, PostgreSQL, Linux
-- 🔌 **Concepts**: Computer Architecture, Operating Systems, Parralel Computing, Object Oriented Programming
+- 🔌 **Concepts**: REST API's, Computer Architecture, Operating Systems, Object Oriented Programming
 
 ---
 
@@ -22,14 +22,15 @@ I’m an 19-year-old dev with a passion for building cool things, breaking into 
 ### 🚧 Currently Working On
  
 - `Aurora`: A local, voice-driven personal AI assistant built to think alongside its user
-- `FT Services`: A website for a well known forklift company
+- `Aurora's Learning Course`: A course teaching anywhere from complete beginners to experienced programmers
+- `FT Services`: A responsive website for a well known forklift company
 
 ---
 
 ### 🧠 Learning Goals
 
-- 🧮 Deep dive into **Concurency** and **Operating Systems**
-- ⚡ Working on my **C++** and **Python**
+- 🧮 Deep dive into **Concurency** and **Machine Learning**
+- ⚡ Working on my **Python** and **C++**
 ---
 
 ### 📬 Let’s Connect
